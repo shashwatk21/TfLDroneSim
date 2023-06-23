@@ -1,3 +1,14 @@
 {
-    "SimMode": "ComputerVision"
-}
+    "ClockSpeed": 50,
+    "SettingsVersion": 1.2,
+    "SimMode": "Multirotor",
+    "ApiServerPort": 42451,
+    "Vehicles": {
+      "Drone1": {
+        "VehicleType": "SimpleFlight",
+        "X": 0,
+        "Y": -10,
+        "Z": -10
+      }
+    }
+  }
